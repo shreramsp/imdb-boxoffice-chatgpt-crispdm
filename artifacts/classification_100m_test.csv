@@ -1,0 +1,5 @@
+Model,Accuracy_100M,Precision_100M,Recall_100M,TP,FP,FN
+Median baseline,0.6378,0.0,0.0,0,0,98
+Ridge,0.7684,0.6522,0.2846,20,10,50
+RandomForest,0.7925,0.6957,0.4062,28,12,41
+HistGradientBoosting,0.8074,0.7083,0.4531,31,12,37
