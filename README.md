@@ -12,7 +12,7 @@ Recommendation: ship **HGB** for $ forecasts; threshold for hit/no-hit.
 ## Links
 - **Medium article:** https://medium.com/@shrerampalanisamy/from-chat-to-forecast-predicting-box-office-with-chatgpt-crisp-dm-time-aware-ml-317b086eada3
 - **Chat transcript (PDF):** `transcripts/chatgpt_session.pdf`
-- **ChatGPT share link (txt):** `transcripts/chatgpt_share_link.txt`
+- **ChatGPT share link :** https://chatgpt.com/share/68d8960d-d29c-800c-b24c-dface2238c0f
 - **Screenshots (figures):** `reports/figures/`
 
 ## Results (CSV)
