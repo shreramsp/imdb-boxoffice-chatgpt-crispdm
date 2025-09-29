@@ -1,0 +1,9 @@
+ChatGPT Share Link (public view)
+https://chatgpt.com/share/68d8960d-d29c-800c-b24c-dface2238c0f
+
+Title: From Chat to Forecast: Predicting Box Office with ChatGPT (CRISP-DM, time-aware ML)
+Author: Shreram Palanisamy
+Assistant: ChatGPT (GPT-5 Thinking)
+
+Notes: Contains the full ChatGPT workflow (EDA, features, modeling, metrics). No secrets or private data included.
+Fallback: If the link doesn’t open, see the PDF export at transcripts/chatgpt_session.pdf
